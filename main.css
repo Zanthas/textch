@@ -8,9 +8,25 @@ border: none;
 }
 a:visited{color:#0645ad;}
 #bar{
-background-color: #eeeeee;
+background-color: #dddddd;
 font-family: Times New Roman,serif,Helvetica,Arial,Courier;
 font-size: 12px;
 text-align: left;
-border: none;
+}
+#topics{
+background-color: #dddddd;
+font-family: Arial,Helvetica,Times New Roman,serif,Courier;
+font-size: 12px;
+text-align: left;
+}
+#topics_header{
+background-color: #aaaaaa;
+font-family: Arial,Helvetica,Times New Roman,serif,Courier;
+font-size: 12px;
+text-align: left;
+}
+#title{
+font-family: Arial,Helvetica,Times New Roman,serif,Courier;
+font-size: 24px;
+text-align: left;
 }
