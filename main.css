@@ -1,0 +1,16 @@
+body{
+font-family: Arial,Times New Roman,Helvetica,serif,Courier;
+font-size: 13px;
+color: #000000;
+background-color: #ffffff;
+text-align: justify;
+border: none;
+}
+a:visited{color:#0645ad;}
+#bar{
+background-color: #eeeeee;
+font-family: Times New Roman,serif,Helvetica,Arial,Courier;
+font-size: 12px;
+text-align: left;
+border: none;
+}
